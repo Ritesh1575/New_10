@@ -41,7 +41,7 @@ public class StandAloneTest {
 		}
 		
 		//hell11
-		//bbppp
+		//bb
 		
 //		WebElement prod= products.stream().filter(product->
 //		product.findElement(By.cssSelector("b")).getText().equals(productName)).findFirst().orElse(null);
